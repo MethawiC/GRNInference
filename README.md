@@ -15,7 +15,7 @@ This code shows the implementation of dynGENIE3 algorithm and transcriptome data
 
 
 ### Note
-This implementation reports . . .
+This implementation showcases the application of machine learning in inferring Gene Regulatory Networks (GRNs). This advancement has proven to be valuable in driving progress in another field of biology, as originally speculated by Lian et al. in 1998. Moreover, it highlights the inherent beauty of mathematics in conjunction with scientific research, as aptly stated by Carl Friedrich Gauss, who referred to it as 'the queen of sciences'.
 
 References:
 Huynh-Thu, V.A. and Geurts, P., 2018. dynGENIE3: dynamical GENIE3 for the inference of gene networks from time series expression data. Scientific reports, 8(1), p.3384.
